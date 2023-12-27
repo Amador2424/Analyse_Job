@@ -1,0 +1,156 @@
+1701204150008	geckodriver	INFO	Listening on 127.0.0.1:58484
+1701204153062	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\amado\\AppData\\Local\\Temp\\rust_mozprofileMSMLV0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701204154237	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701204156124	Marionette	INFO	Listening on port 58504
+Read port: 58504
+1701204156770	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1701204184419	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Listening on 127.0.0.1:58592
+1701204203084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\amado\\AppData\\Local\\Temp\\rust_mozprofile0hIC2s"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701204203625	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701204203728	Marionette	INFO	Listening on port 58605
+Read port: 58605
+1701204203928	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.apec.fr."
+1701204221311	Marionette	INFO	Stopped listening on port 58605
+Dynamically enable window occlusion 1
+1701204606029	geckodriver	INFO	Listening on 127.0.0.1:58907
+1701204609048	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\amado\\AppData\\Local\\Temp\\rust_mozprofilejodUbE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701204609669	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701204609788	Marionette	INFO	Listening on port 58918
+Read port: 58918
+1701204610019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.apec.fr."
+1701204640281	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.apec.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.apec.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.apec.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.apec.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.apec.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.apec.fr."
+Exiting due to channel error.
+Exiting due to channel error.
+1701204901961	geckodriver	INFO	Listening on 127.0.0.1:59196
+1701204904985	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\amado\\AppData\\Local\\Temp\\rust_mozprofilefseUgW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701204905593	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701204906234	Marionette	INFO	Listening on port 59207
+Read port: 59207
+1701204906425	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+1701204936267	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.apec.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.apec.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.apec.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.apec.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.apec.fr."
+Exiting due to channel error.
+1701205354816	geckodriver	INFO	Listening on 127.0.0.1:59602
+1701205357846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\amado\\AppData\\Local\\Temp\\rust_mozprofilecZuBLC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701205358606	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701205359409	Marionette	INFO	Listening on port 59614
+Read port: 59614
+1701205359637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.apec.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.apec.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.apec.fr."
+1701205388628	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701205396889	Marionette	INFO	Stopped listening on port 59614
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.warn: services.settings: blocklists/gfx sync interrupted by shutdown
+console.warn: services.settings: main/normandy-recipes-capabilities sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/nimbus-mobile-experiments getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1701205662528	geckodriver	INFO	Listening on 127.0.0.1:59852
+1701205665562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\amado\\AppData\\Local\\Temp\\rust_mozprofileDzO9np"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701205666063	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701205666717	Marionette	INFO	Listening on port 59864
+Read port: 59864
+1701205666914	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.apec.fr."
+1701205673876	Marionette	INFO	Stopped listening on port 59864
+JavaScript warning: https://www.apec.fr/candidat/recherche-emploi.html/emploi?lieux=711&typesConvention=143684&typesConvention=143685&typesConvention=143686&typesConvention=143687&page=0, line 41: Script terminated by timeout at:
+d@https://www.apec.fr/candidat/recherche-emploi.html/emploi?lieux=711&typesConvention=143684&typesConvention=143685&typesConvention=143686&typesConvention=143687&page=0:41:173
+
+Dynamically enable window occlusion 1
+1701206079659	geckodriver	INFO	Listening on 127.0.0.1:60228
+1701206082714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\amado\\AppData\\Local\\Temp\\rust_mozprofileXsfxlw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701206083655	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701206084965	Marionette	INFO	Listening on port 60240
+Read port: 60240
+1701206085232	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.apec.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.apec.fr."
+1701206114104	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1701206563227	geckodriver	INFO	Listening on 127.0.0.1:60588
+1701206566289	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\amado\\AppData\\Local\\Temp\\rust_mozprofileNmwSoY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701206567096	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701206567948	Marionette	INFO	Listening on port 60600
+Read port: 60600
+1701206568202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.apec.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.apec.fr."
+1701206597125	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701206598452	Marionette	INFO	Stopped listening on port 60600
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.warn: services.settings: main/top-sites sync interrupted by shutdown
+console.warn: services.settings: main/doh-providers sync interrupted by shutdown
+console.warn: services.settings: main/doh-config sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/devtools-devices getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1701206877592	geckodriver	INFO	Listening on 127.0.0.1:60886
+1701206880629	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\amado\\AppData\\Local\\Temp\\rust_mozprofilerqx8Lh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701206881415	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701206882212	Marionette	INFO	Listening on port 60897
+Read port: 60897
+1701206882436	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.apec.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.apec.fr."
+1701206911520	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701206933995	Marionette	INFO	Stopped listening on port 60897
+Dynamically enable window occlusion 1
